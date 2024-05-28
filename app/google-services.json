@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8988025837",
+    "project_id": "lista-de-tarefas-compose-937af",
+    "storage_bucket": "lista-de-tarefas-compose-937af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8988025837:android:75ac2331718e2840277de4",
+        "android_client_info": {
+          "package_name": "br.com.carlos.rafael.lista_tarefa_compose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JjkNMACIw0J9HzjGXyCEFcTZShxpmW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
